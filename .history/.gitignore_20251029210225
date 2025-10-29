@@ -27,15 +27,3 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
-
-# Dart
-.packages
-.pub-cache/
-.pub/
-build/
-
-# VS Code
-.vscode/
-
-# OS
-.DS_Store
